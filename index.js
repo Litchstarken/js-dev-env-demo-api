@@ -16,10 +16,6 @@ app.get('/users', function(req, res) {
     {"id": 1,"firstName":"Bobby","lastName":"Smith","email":"bob@gmail.com"},
     {"id": 2,"firstName":"Tom","lastName":"Norton","email":"tnorton@yahoo.com"},
     {"id": 3,"firstName":"Angelina","lastName":"Lee","email":"lee.tina@hotmail.com"},
-    {"id": 3,"firstName":"John","lastName":"Castle","email":"john.tina@hotmail.com"},
-    {"id": 3,"firstName":"Juanita","lastName":"Castle","email":"juanita.tina@hotmail.com"},
-    {"id": 3,"firstName":"Samuel","lastName":"Castle","email":"samuel.tina@hotmail.com"},
-    {"id": 3,"firstName":"Jeimmy","lastName":"Castle","email":"jeimmy.tina@hotmail.com"}
   ]);
 });
 
