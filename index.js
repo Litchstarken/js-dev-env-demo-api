@@ -18,7 +18,8 @@ app.get('/users', function(req, res) {
     {"id": 3,"firstName":"Tina","lastName":"Lee","email":"lee.tina@hotmail.com"},
     {"id": 3,"firstName":"John","lastName":"Castle","email":"john.tina@hotmail.com"},
     {"id": 3,"firstName":"Juanita","lastName":"Castle","email":"juanita.tina@hotmail.com"},
-    {"id": 3,"firstName":"Samuel","lastName":"Castle","email":"samuel.tina@hotmail.com"}
+    {"id": 3,"firstName":"Samuel","lastName":"Castle","email":"samuel.tina@hotmail.com"},
+    {"id": 3,"firstName":"Jeimmy","lastName":"Castle","email":"jeimmy.tina@hotmail.com"}
   ]);
 });
 
